@@ -112,3 +112,27 @@ fieldset {
     color: #f5dcdc;
     margin: 10px 0;
 }
+
+#album-list {
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#album-list > li{
+    margin: 20px 0;
+}
+
+#album-list > li > a:link {
+    color: #000;
+    text-decoration: underline;
+}
+
+#album-list > li > a:visited {
+    color: #000;
+    text-decoration: underline;
+}
+
+#album-list > li > a:hover {
+    color: #511D15;
+}
