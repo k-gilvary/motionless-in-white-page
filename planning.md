@@ -22,3 +22,11 @@ unordered list with links to each album on spotify
 3 column 2 row grid
 band imgs
 link to source for each
+
+--STYLES
+font family: nanum gothic coding, monospace
+page background: #f5dcdc
+nav background: #62007A
+- nav text color: white
+-nav hover color: #454445
+titles and headers: #511D15
