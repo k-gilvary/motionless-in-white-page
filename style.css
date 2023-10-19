@@ -136,3 +136,14 @@ fieldset {
 #album-list > li > a:hover {
     color: #511D15;
 }
+
+#gallery-wrap {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 50px;
+}
+
+.img {
+    width: 100%;
+}
