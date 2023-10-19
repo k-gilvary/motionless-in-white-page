@@ -6,21 +6,19 @@ title
 band img
 summary of band
 
---PAGE 2 (TABLE OF PAST/CURRENT MEMBERS)
-title
-table with members current and past (hopefully chronological)
-
---PAGE 3 (ALBUMS N SONGS)
-title
-list of each mainstream album (no deluxes/lives/singles)
-->  album cover
-    album name
-    track list + length (mm:ss)
-
---PAGE 4(FORM)
+--PAGE 2 (FORM PAGE)
 title
 name
 email
 subject
-body
-(not going anywhere yet)
+comments
+'i believe i am the biggest MIW fan' checkbox (they are false)
+
+--PAGE 3 (ALBUMS LINKS)
+title
+unordered list with links to each album on spotify
+
+--PAGE 4(GALLERY)
+3 column 2 row grid
+band imgs
+link to source for each
